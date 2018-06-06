@@ -26,8 +26,8 @@ app.engine(
 app.set("view engine", "handlebars");
 
 //connecting to MongoDB
-// mongoose.connect('mongodb://heroku_jxkjhg1v:6s68tem51mlionrj2sneb7b53c@ds127988.mlab.com:27988/heroku_jxkjhg1v');
-
+mongoose.connect("mongodb://admin:Password1@ds151180.mlab.com:51180/scraper");
+//
 mongoose.connect("mongodb://localhost/scraperDB");
 
 var db = mongoose.connection;
