@@ -4,6 +4,8 @@ Uses Cheerio to scrape news articles from https://www.theverge.com/tech and allo
 
 ## Getting Started
 
+https://quiet-wave-64779.herokuapp.com/
+
 ## Screen Shots
 
 ![Screen shot](public/assets/img/index.png)
