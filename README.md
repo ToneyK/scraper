@@ -1,6 +1,6 @@
 # Scraper
 
-Uses Cheerio to scrape news articles from Theverge.com/tech and allows the users to make comments and delete them. Uses Mongoose to store comments and articles.
+Uses Cheerio to scrape news articles from https://www.theverge.com/tech and allows the users to make comments and delete them. Uses Mongoose to store comments and articles.
 
 ## Getting Started
 
@@ -42,4 +42,4 @@ Add comments by filling in the form
 
 ## Authors
 
-- **Toney K** - Full Stack Developer - [Toney K](https://github.com/ToneyK)
+- **Toney K** - Developer - [Toney K](https://github.com/ToneyK)
