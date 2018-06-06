@@ -28,7 +28,7 @@ app.set("view engine", "handlebars");
 //connecting to MongoDB
 mongoose.connect("mongodb://admin:Password1@ds151180.mlab.com:51180/scraper");
 //
-mongoose.connect("mongodb://localhost/scraperDB");
+// mongoose.connect("mongodb://localhost/scraperDB");
 
 var db = mongoose.connection;
 db.on("error", console.error.bind(console, "connection error:"));
